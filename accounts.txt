@@ -1,0 +1,3 @@
+username='Admin', password='Admin123', type='ADMIN'
+username='Consumer', password='Consumer123', type='CONSUMER'
+username='Shane', password='Shane0511', type='ADMIN'
